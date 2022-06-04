@@ -1,2 +1,2 @@
 # Hi, I’m LONG
-# This is Secret Number webgame.
+This is Secret Number webgame.
